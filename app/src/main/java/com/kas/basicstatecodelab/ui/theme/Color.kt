@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) ASKREP 2022.
+ */
+
 package com.kas.basicstatecodelab.ui.theme
 
 import androidx.compose.ui.graphics.Color

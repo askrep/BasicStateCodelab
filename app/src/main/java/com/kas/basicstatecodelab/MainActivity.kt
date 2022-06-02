@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) ASKREP 2022.
+ */
+
 package com.kas.basicstatecodelab
 
 import android.os.Bundle
